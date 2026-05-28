@@ -140,3 +140,11 @@ El proyecto incluye una clase base de pruebas con Spring Boot Test. Para ejecuta
 ## 👤 Autor
 
 **William Balaguera**
+
+## Capturas
+
+<img width="1600" height="770" alt="WhatsApp Image 2026-05-28 at 1 00 54 PM" src="https://github.com/user-attachments/assets/b5dcfcd0-88b6-4091-aa02-2adba2d9bc4d" />
+<img width="1600" height="768" alt="WhatsApp Image 2026-05-28 at 1 03 06 PM" src="https://github.com/user-attachments/assets/e31bd7ba-e661-4223-aca6-4755496c66d0" />
+<img width="1600" height="768" alt="WhatsApp Image 2026-05-28 at 1 03 30 PM" src="https://github.com/user-attachments/assets/895b277f-b773-4e35-975a-abf4b5eddc8e" />
+<img width="1600" height="765" alt="WhatsApp Image 2026-05-28 at 1 03 47 PM" src="https://github.com/user-attachments/assets/8a0805a3-9a96-4912-ab35-b3c561b05651" />
+
